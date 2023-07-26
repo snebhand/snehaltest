@@ -1,1 +1,3 @@
-<?php myfile ?> 
+<?php
+      echo "this is my file"
+ ?> 
